@@ -1,0 +1,46 @@
+/*
+ Theme Name:   Kleistad
+ Theme URI:    http://kleistad.nl/
+ Description:  Kleistad theme
+ Author:       Annelies Kool
+ Author URI:   http://kleistad.nl/
+ Template:     twentysixteen
+ Version:      4.0.87
+ Tags:         default font, site-main, sidebar, site-header
+ Text Domain:  kleistad
+ */
+ 
+/* niet meer nodig @import url("../twentysixteen/style.css"); */
+ 
+/* =Eigen CSS hier beneden plaatsen
+-------------------------------------------------------------- */
+
+body,
+button,
+input,
+select,
+textarea {
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+}
+
+.site-main {
+	margin-bottom: 2.0em;
+}
+
+.sidebar {
+	background-color: #EDEDED;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+}
+
+.site-header {
+	padding: 0 4%;
+}
+
+.site-info {
+	display: none;
+}
+
+span.wpcf7-list-item { display: block; }
+/* span.wpcf7-list-item { display: table-row; }
+span.wpcf7-list-item * { display: table-cell; } */
