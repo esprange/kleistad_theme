@@ -7,14 +7,10 @@
  Template:     twentysixteen
  Version:      4.0.87
  Tags:         default font, site-main, sidebar, site-header
+ GitHub Theme URI: https://github.com/esprange/kleistad_theme
  Text Domain:  kleistad
  */
  
-/* niet meer nodig @import url("../twentysixteen/style.css"); */
- 
-/* =Eigen CSS hier beneden plaatsen
--------------------------------------------------------------- */
-
 body,
 button,
 input,
